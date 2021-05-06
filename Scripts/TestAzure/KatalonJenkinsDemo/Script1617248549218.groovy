@@ -31,6 +31,6 @@ WebUI.click(findTestObject('Object Repository/logintoAutoOrg/Page_Nexus/input_Pe
 WebUI.click(findTestObject('Object Repository/logintoAutoOrg/Page_Nexus/span_Weasle-Tek Ltd_caret'))
 
 WebUI.click(findTestObject('Object Repository/logintoAutoOrg/Page_Nexus/a_AutoTest'))
-WebUI.delay(10)
+WebUI.delay(20)
 WebUI.closeBrowser()
 
