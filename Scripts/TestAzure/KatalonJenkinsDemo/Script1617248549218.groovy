@@ -32,5 +32,6 @@ WebUI.click(findTestObject('Object Repository/logintoAutoOrg/Page_Nexus/span_Wea
 
 WebUI.click(findTestObject('Object Repository/logintoAutoOrg/Page_Nexus/a_AutoTest'))
 WebUI.delay(20)
+// Tom branch 
 WebUI.closeBrowser()
 
